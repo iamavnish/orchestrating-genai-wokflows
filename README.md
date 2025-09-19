@@ -1,6 +1,6 @@
 # Orchestrating Workflows for GenAI Applications with Apache Airflow
 
-This repository demonstrate how to orchestrate workflows for GenAI applications using Apache Airflow. Focus is on transforming prototype code into production-ready, automated pipelines.
+This repository demonstrates how to orchestrate workflows for GenAI applications using Apache Airflow. Focus is on transforming prototype code into production-ready, automated pipelines.
 
 ## Notebook
 
