@@ -4,7 +4,7 @@ This repository demonstrates how to orchestrate workflows for GenAI applications
 
 ## Notebook
 
-### RAG Prototype.ipynb - RAG Prototype
+### rag_prototype.ipynb - RAG Prototype
 - Comprehensive implementation of a Retrieval Augmented Generation (RAG) system:
   - Book recommendation system using semantic search
   - Vector database integration with Weaviate
@@ -112,7 +112,7 @@ An intelligent search pipeline that leverages vector embeddings:
 │       ├── book_descriptions_1.txt
 │       └── book_descriptions_2.txt
 └── notebooks/
-    └── RAG Prototype.ipynb
+    └── rag_prototype.ipynb
 ```
 
 ## Resources and References
