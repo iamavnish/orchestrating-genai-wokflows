@@ -131,7 +131,6 @@ This repository contains a series of Jupyter notebooks that demonstrate how to o
 ├── dags/
 │   ├── fetch_data.py
 │   ├── query_data.py
-│   └── practice_dags/
 ├── include/
 │   └── data/
 │       ├── book_descriptions_1.txt
