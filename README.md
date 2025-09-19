@@ -151,11 +151,6 @@ This repository contains a series of Jupyter notebooks that demonstrate how to o
 - [Local setup for Airflow and Weaviate](https://github.com/astronomer/orchestrating-workflows-for-genai-deeplearning-ai) 
 
 
-## Important Notes
-- Changes to DAGs may take up to 30 seconds to appear in the Airflow UI
-- The Airflow UI may timeout after 2 hours or after 25 minutes of inactivity
-- Notebooks can be downloaded directly from the Jupyter interface using File > Download as > Notebook (.ipynb)
-
 ## Credits
 
 This project and its notebooks are based on materials from the excellent [Orchestrating Workflows for GenAI Applications](https://www.deeplearning.ai/) course by deeplearning.ai. Special thanks to the deeplearning.ai team for providing high-quality educational resources and making these notebooks available for download. If you want to learn more about GenAI workflows and Airflow, check out their courses and content!
